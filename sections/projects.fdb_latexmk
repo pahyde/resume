@@ -1,0 +1,16 @@
+# Fdb version 3
+["pdflatex"] 1690938776 "projects.tex" "projects.pdf" "projects" 1690938776
+  "/etc/texmf/web2c/texmf.cnf" 1666566445 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1636758526 20144 8a7de377ae7a11ee924a7499611f5a9d ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo" 1636758526 8464 74db94825c407b51399ca17d9bd38a3d ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685542949 2801624 702fb7c8e0ff320c6cd0b932302c0424 ""
+  "Loader.sty" 0 -1 0 ""
+  "projects.aux" 1690938776 32 3985256e7290058c681f74d7a3565a19 ""
+  "projects.tex" 1690937963 2243 a9e4a22343e7eadbd2ae835199d90ba1 ""
+  (generated)
+  "projects.log"
+  "projects.pdf"
